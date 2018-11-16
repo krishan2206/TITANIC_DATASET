@@ -3,3 +3,16 @@ This is a tutorial in an IPython Notebook for the Kaggle competition, Titanic Ma
 
 
 https://www.kaggle.com/c/titanic/data (view feature of dataset on kaggle  )
+
+
+Dependencies:
+NumPy
+IPython
+Pandas
+SciKit-Learn
+SciPy
+StatsModels
+Patsy
+Matplotlib
+
+
